@@ -4,7 +4,9 @@
     --caacep: #dc283c;
     --gris: #ccc;
     --negro: #000;
-    --headerSize: 8em;
+    --headerSize: 9em;
+    --padding-top-main: 12em;
+    --padding-bottom-main: 12em;
 }
 
 * {
@@ -15,7 +17,7 @@
 
 /* Estilos generales*/
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: monospace
 }
 
 a {
@@ -35,8 +37,6 @@ header {
     height: var(--headerSize);
 }
 
-
-
 .header-container-logo {
     align-items: center;
     display: flex;
@@ -47,6 +47,10 @@ header {
 .header-container-logo h1 {
     color: var(--caacep);
     margin-bottom: 0.5rem;
+}
+
+.header-container-logo h2 {
+    color: var(--negro);
 }
 
 nav {
@@ -81,9 +85,31 @@ nav {
 /* Main */
 
 main {
-    height: 12000px;
-    padding-top: var(--headerSize);
+    padding-top: var(--padding-top-main);
+    padding-bottom: var(--padding-bottom-main);
 }
+
+/* hojaRuta */
+.hojaRuta-container {
+    border: 1px solid red;
+}
+
+.etapa {
+    border: 1px solid blue;
+}
+
+.fila {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 2em;
+    width: 100%;
+}
+
+.columna {
+    text-align: start;
+}
+
 
 /* misDatos */
 .data-container-title {

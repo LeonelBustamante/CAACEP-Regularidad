@@ -1,0 +1,521 @@
+{
+    "carrera": "CARRERA 1",
+    "fecha": "2019-01-01",
+    "lugar": "PUEBLO",
+    "etapa": [
+        {
+            "velocidadKMH": 79,
+            "referencias": [
+                {
+                    "inicio": true,
+                    "enlace": true,
+                    "referencia": "ENLACE ETAPA 1 7 MINUTOS",
+                    "tiempo": 7,
+                    "oculto": true,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 0,
+                    "referencia": "CASETA BUS PARADA 36",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 900,
+                    "referencia": "40 VELOCIDAD MAXIMA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 1490,
+                    "referencia": "CASETA BUS",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 3150,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 4100,
+                    "referencia": "60 VELOCIDAD MAXIMA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 5920,
+                    "referencia": "ALTURA MAXIMA 5,10",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 7130,
+                    "referencia": "INICIO PUENTE BLANCO",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 7950,
+                    "referencia": "PROHIBIDO ESTACIONAR",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 9330,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 10190,
+                    "referencia": "CASETA BUS ROSADA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 10960,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 11910,
+                    "referencia": "CONSERVE SU LUGAR",
+                    "oculto": false,
+                    "autocontrol": true
+                }
+            ]
+        },
+        {
+            "velocidadKMH": 81,
+            "referencias": [
+                {
+                    "inicio": false,
+                    "enlace": true,
+                    "referencia": "ENLACE ETAPA 2 2 MINUTOS",
+                    "tiempo": 2,
+                    "oculto": true,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 0,
+                    "referencia": "INGRESO LATERAL DERECHO",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 290,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 737,
+                    "referencia": "K 1116",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 1040,
+                    "referencia": "ALCANTARILLA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 1990,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 2960,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 4190,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 4940,
+                    "referencia": "LUZ BAJA OBLIGATORIA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 6130,
+                    "referencia": "ESTRELA CICLISTA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 7930,
+                    "referencia": "GAUCHITO GIL",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 9080,
+                    "referencia": "ALCANTARILLA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 9480,
+                    "referencia": "NO ADELANTARSE",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 11890,
+                    "referencia": "NO ADELANTARSE",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 13810,
+                    "referencia": "LUZ BAJA OBLIGATORIA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 14180,
+                    "referencia": "SUBIDA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 15170,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 16680,
+                    "referencia": "NO ADELANTARSE",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 17200,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 18790,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 20020,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 20640,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 22140,
+                    "referencia": "TRANQUERA CON PILOTES LADRILLO",
+                    "oculto": false,
+                    "autocontrol": true
+                },
+                {
+                    "metros": 23060,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 24600,
+                    "referencia": "NO ADELANTARSE",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 26330,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 29940,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 31390,
+                    "referencia": "NO ADELANTARSE",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 32800,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 33530,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 34980,
+                    "referencia": "ALCANTARILLA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 35950,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 36710,
+                    "referencia": "ACC CHELFORO",
+                    "oculto": false,
+                    "autocontrol": true
+                }
+            ]
+        },
+        {
+            "velocidadKMH": 81,
+            "referencias": [
+                {
+                    "inicio": false,
+                    "enlace": true,
+                    "referencia": "ENLACE ETAPA 3 5 MINUTOS",
+                    "tiempo": 5,
+                    "oculto": true,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 0,
+                    "referencia": "CHICHINALES 36/VILLA REGINA 50/ GRAL ROCA 95",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 451,
+                    "referencia": "CONSERVE SU LUGAR",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 1660,
+                    "referencia": "LUZ BAJA OBLIGATORIA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 3330,
+                    "referencia": "CONSERVE SU LUGAR",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 4830,
+                    "referencia": "ALCANTARILLA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 6270,
+                    "referencia": "SUBIDA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 8300,
+                    "referencia": "ALCANTARILLA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 9730,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 11810,
+                    "referencia": "GAUCHITO GIL",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 12960,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 15290,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 16020,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 17340,
+                    "referencia": "SUBIDA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 18890,
+                    "referencia": "DERECHA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 20270,
+                    "referencia": "IZQUIERDA CURVA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 22910,
+                    "referencia": "LUZ BAJA OBLIGATORIA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 24990,
+                    "referencia": "NO ADELANTARSE",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 26710,
+                    "referencia": "ALCANTARILLA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 28490,
+                    "referencia": "NO ADELANTARSE",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 30650,
+                    "referencia": "NO ADELANTARSE",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 32990,
+                    "referencia": "ALCANTARILLA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 34040,
+                    "referencia": "ALCANTARILLA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 34980,
+                    "referencia": "BAJADA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 36660,
+                    "referencia": "80 VELOCIDAD MAXIMA",
+                    "oculto": false,
+                    "autocontrol": false
+                }
+            ]
+        },
+        {
+            "velocidadKMH": 79,
+            "referencias": [
+                {
+                    "inicio": false,
+                    "enlace": true,
+                    "referencia": "ENLACE ETAPA 4 2 MINUTOS",
+                    "tiempo": 2,
+                    "oculto": true,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 0,
+                    "referencia": "60 VELOCIDAD MAXIMA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 870,
+                    "referencia": "INGRESO LATERAL DERECHO",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 80,
+                    "referencia": "1310 KM",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 3600,
+                    "referencia": "PROHIBIDO ESTACIONAR",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 4520,
+                    "referencia": "INICIO PUENTE BLANCO",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 5710,
+                    "referencia": "CASETA ROSA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 7560,
+                    "referencia": "PROHIBIDO ESTACIONAR",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 9540,
+                    "referencia": "5,10 ALTURA MAXIMA",
+                    "oculto": false,
+                    "autocontrol": false
+                },
+                {
+                    "metros": 10520,
+                    "referencia": "VILLA REGINA 2/ CIPOLLETTI 86/ NQN 90",
+                    "oculto": false,
+                    "autocontrol": false
+                }
+            ]
+        }
+    ]
+}
